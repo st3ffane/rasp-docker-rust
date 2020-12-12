@@ -1,0 +1,11 @@
+[package]
+name = "test2"
+version = "0.1.0"
+authors = ["PONTEINS Stéphane <stephane@do.ne>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rust_gpiozero = "0.2.0"
+time = "0.2.23"
