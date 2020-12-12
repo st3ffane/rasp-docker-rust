@@ -54,5 +54,7 @@ Le resultat de la compilation se trouve dans le dossier **/target/arm-unknown-li
 
 ## Hello World
 
-Le projet Boilerplate est un simple hello world a la raspberry-style, c.a.d faire clignoter une LED 5 fois.
+Le projet Boilerplate est un simple hello world a la raspberry-style, c.a.d faire clignoter une LED 5 fois, honteusement repiqué de la lib [rust_gpiozero](https://github.com/rahul-thakoor/rust_gpiozero) pour l'interface avec les GPIO.
+
+Le schema obligatoire:
 ![alt text](https://github.com/st3ffane/rasp-docker-rust/blob/main/schema.png?raw=true)
